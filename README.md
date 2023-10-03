@@ -2,7 +2,7 @@
 <html>
   <head>
   </head>
-  <body><script src="https://tryhackme.com/badge/1227649"></script>
+  <body>
   <img src="https://tryhackme-badges.s3.amazonaws.com/yasinkhrmn.png" alt="TryHackMe">
   </body>
   </html>
